@@ -1,4 +1,4 @@
-# ap_physics_c_physics_ball
+# Physics Ball for AP Physics C
 A gravity-related project I did during the summer of 2024 for my AP Physics C class.
 
 # Details
